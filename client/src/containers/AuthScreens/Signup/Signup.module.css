@@ -1,0 +1,17 @@
+/* 
+.signin{
+    padding: 20px;
+} */
+.inputs {
+    padding: 30px;
+    margin: 30px;
+    border-radius: 20px;
+    flex: 3;
+}
+
+.imageContainer {
+
+
+    flex: 4;
+
+}

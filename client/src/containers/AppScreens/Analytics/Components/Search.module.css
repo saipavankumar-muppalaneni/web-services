@@ -1,0 +1,15 @@
+
+
+.resultContainer{
+    background-color: white ;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    overflow-x: auto;
+}
+.searchedIcon{
+    height: 23px;
+    width: 40px;
+    border-radius: 10px;
+    margin: 0px 10px;
+}

@@ -1,0 +1,68 @@
+.dashboardContainer {
+    padding: 15px;
+   
+
+}
+
+.sideMenuContainer {
+    width: 256px;
+}
+
+.menuButtonSelected {
+    width: 100%;
+    background-color: #5D6BC4;
+    border-radius: 10px;
+    border: transparent;
+    height: 45px;
+    width: 100%;
+    color: #fff;
+    font-weight: 600;
+    margin: 5px 0px;
+    text-align: start;
+
+
+
+}
+
+.menuButtonunSelected {
+    font-size: 17px;
+    width: 100%;
+    border-radius: 10px;
+    border: transparent;
+    background-color: transparent;
+    height: 45px;
+    width: 100%;
+    color: #5A7184;
+    font-weight: 600;
+    margin: 5px 0px;
+    text-align: start;
+
+}
+
+.contentContainer {
+    border-radius: 40px;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+.showOnMob {
+    display: none;
+}
+
+.hideOnMob {
+    display: auto;
+}
+
+
+@media screen and (max-width: 780px) {
+
+    .showOnMob {
+        display: flex;
+    }
+
+    .hideOnMob {
+        display: none;
+    }
+
+
+}

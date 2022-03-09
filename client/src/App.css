@@ -1,0 +1,154 @@
+h1 {
+  margin: 0px;
+}
+
+.App {
+  display: flex;
+  min-height: 100vh;
+}
+
+* {
+  font-family: Poppins, sans-serif;
+}
+
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+
+}
+
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.align-center {
+  align-items: center;
+
+}
+
+.align-end {
+  align-items: flex-end;
+}
+
+.align-start {
+  align-items: flex-start;
+}
+
+.justify-start {
+  justify-content: flex-start;
+}
+
+
+.justify-end {
+  justify-content: flex-end;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-evenly {
+  justify-content: space-evenly;
+}
+
+.main-container {
+  min-height: 100vh;
+}
+
+
+
+.header-container {
+
+  height: 80px;
+
+}
+
+.flex1 {
+  flex: 1;
+
+
+}
+
+.inputWrapper {
+  margin: 20px 0px;
+}
+
+.bg-grey {
+  background-color:#EFEDF5;
+}
+
+.footer-container {
+  height: 80px;
+
+}
+
+.item-wrapper {
+  width: 250px;
+  min-height: 400px;
+  margin: 5px;
+}
+
+.items-container {
+  flex-wrap: wrap;
+  background-color: aqua;
+}
+
+
+@media screen and (max-width:600px) {
+
+
+  .row-to-col-mob {
+    flex-direction: column;
+  }
+
+  .items-container {
+    background-color: brown;
+  }
+
+}
+
+
+.space5 {
+  margin: 5px;
+}
+
+.space10 {
+  margin: 10px;
+}
+
+.footer-container div {
+  border: solid orange 3px;
+  padding: 3px;
+  margin: 1px;
+}
+
+/* fixess */
+
+.avatar-uploader>.ant-upload {
+  width: 128px !important;
+  height: 128px;
+}
+.gallary-uploader>.ant-upload {
+  width: 228px !important;
+  height: 128px;
+}
+html {
+  scroll-behavior: smooth;
+}
