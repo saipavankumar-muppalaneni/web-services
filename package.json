@@ -1,0 +1,22 @@
+{
+  "name": "projectswe",
+  "version": "1.0.0",
+  "description": "backend-setup",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saipavankumar-muppalaneni/web-services.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saipavankumar-muppalaneni/web-services/issues"
+  },
+  "homepage": "https://github.com/saipavankumar-muppalaneni/web-services#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
