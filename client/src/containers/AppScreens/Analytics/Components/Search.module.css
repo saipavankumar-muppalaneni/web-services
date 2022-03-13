@@ -6,6 +6,8 @@
     margin: 10px;
     padding: 10px;
     overflow-x: auto;
+	max-height:400px;
+	overflow-y:scroll;
 }
 .searchedIcon{
     height: 23px;

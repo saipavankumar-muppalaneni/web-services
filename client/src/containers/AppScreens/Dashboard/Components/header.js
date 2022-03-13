@@ -2,17 +2,24 @@ import React from "react";
 import { Text } from "../../../../elements";
 import { colors } from "../../../../constants";
 import { BellOutlined } from "@ant-design/icons";
-import { Avatar } from "antd";
+import { Avatar, Button } from "antd";
 import { links } from "./links";
 import { useLocation } from "react-router-dom";
 import { useAuth } from "../../../../hooks/UserContext";
 
+
 function Header() {
   const location = useLocation();
 
-  const { additionalUserInfo } = useAuth()
+  const { additionalUserInfo,logout } = useAuth()
   return (
     <div className="flex-row justify-between align-center space10">
+      <div>
+
+      <Button onClick={logout}>
+        Logout
+      </Button>
+      </div>
       <div>
         <Text size={22} weight={500}>
           {links.find((item) => item.link == location.pathname)?.name}

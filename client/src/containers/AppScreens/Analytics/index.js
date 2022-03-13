@@ -79,11 +79,86 @@ const data1 = [
 ];
 
 export default function Analytics() {
+const API_KEY_MARKET_STACK = '5c9444b94cf01ee44697c38c8d49edb5';
+const MAP_API_KEY = '90423E19D4EE45D2B00A1001D2D5125D';
   const { isLoggedIn, additionalUserInfo, updateUser } = useAuth()
   const [data, setdata] = useState(days)
   const [record, setrecord] = useState([])
 
 
+  const [tickersList, setTickers] = useState(null);
+  const [searchText, setSearchText] = useState('');
+  const [isLoaded, setIsLoaded] = useState(false);
+   const [selectedStock, setSelectedStock] = useState('');
+   const [selectedStockName, setSelectedStockName] = useState('');
+   
+   const [selectedStockDetails, setSelectedStockDetails] = useState('{ name: "", code: "" , price: "", volume: "" }');
+   
+   
+	const stockSearchHandler = (value) => {
+		setSearchText(value);
+	}
+
+const IframeChart = ({selectedStock}) => {
+	if(!selectedStock) {return null;}
+	let frmaeurl = `https://api.stockdio.com/visualization/financial/charts/v1/HistoricalPrices?app-key=${MAP_API_KEY}&symbol=${selectedStock}&days=1&displayPrices=Candlestick&dividends=true&splits=true&showUserMenu=false&palette=Financial-Light`;          
+	return (  
+			<iframe width="100%" height="400px;" frameBorder="0" scrolling="no" src={frmaeurl} />
+	)
+}
+
+
+	//stock List API 
+		useEffect(() => {
+			if(searchText && searchText.length > 2){
+				fetch(`http://api.marketstack.com/v1/tickers?access_key=${API_KEY_MARKET_STACK}&search=${searchText}`)
+				.then(response => response.json())
+				// 4. Setting *tickersList* to the data that we received from the response above
+				.then((tickers_data) => { 
+										setIsLoaded(true);
+										setTickers(tickers_data.data)
+									},
+									// Note: it's important to handle errors here
+									// instead of a catch() block so that we don't swallow
+									// exceptions from actual bugs in components.
+									(error) => {
+									  setIsLoaded(true);
+									  //setError(error);
+									}						
+									
+				)
+			}
+		},[searchText]) // Note: the empty deps array [] means this useEffect will run once similar to componentDidMount() i.e //Runs only on the first render // useEffect runs after the component is rendered.
+	
+	//stock Detail API 
+		useEffect(() => {
+			if(selectedStock && searchText && searchText.length > 2){
+				//console.log(selectedStock);
+				fetch(`http://api.marketstack.com/v1/eod/latest?access_key=${API_KEY_MARKET_STACK}&symbols=${selectedStock}`)
+				.then(response => response.json())
+				// 4. Setting *tickersList* to the data that we received from the response above
+				.then((ticker_data) => { 
+				//console.log(ticker_data);
+										//setIsLoaded(true);
+										        setSelectedStockDetails(prevState => ({
+													...prevState,
+													name: ticker_data.data[0].symbol,
+													code: ticker_data.data[0].symbol,
+													price: ticker_data.data[0].close,
+													volume: ticker_data.data[0].volume
+												 }));
+									},
+									// Note: it's important to handle errors here
+									// instead of a catch() block so that we don't swallow
+									// exceptions from actual bugs in components.
+									(error) => {
+									  setIsLoaded(true);
+									  //setError(error);
+									}						
+									
+				)
+			}
+		},[selectedStock]) // Note: the empty deps array [] means this useEffect will run once similar to componentDidMount() i.e //Runs only on the first render // useEffect runs after the component is rendered.
 
 
 
@@ -144,9 +219,9 @@ export default function Analytics() {
       <div className="flex-row">
         <div className="flex1 space10">
 
-          <SearchBar />
+          <SearchBar stockSearchHandler={stockSearchHandler} searchText={searchText} />
 
-          <SearchResults />
+          <SearchResults tickersList={tickersList} setSelectedStock={setSelectedStock} setSelectedStockName={setSelectedStockName}/>
 
         </div>
 
@@ -161,15 +236,26 @@ export default function Analytics() {
           }}
         >
           <div className="flex-row flex1">
-
-            {[1, 2, 3].map(item => {
-              return <div className="flex1" style={{ borderRight: 'solid black 1px ', padding: '10px' }}>
-
+              <div className="flex1" style={{ borderRight: 'solid black 1px ', padding: '10px' }}>
                 <Text style={{ color: colors.textGrey }}>
-                  Tesla
+				{selectedStockName}
                 </Text>
+				<Text weight={600} size={17}>{selectedStockDetails.code}</Text>
               </div>
-            })}
+            
+			 <div className="flex1" style={{ borderRight: 'solid black 1px ', padding: '10px' }}>
+                <Text style={{ color: colors.textGrey }}>
+                  Price
+                </Text>
+				<Text weight={600} size={17}>{selectedStockDetails.price}</Text>
+              </div>
+			  
+				<div className="flex1" style={{ borderRight: 'solid black 1px ', padding: '10px' }}>
+                <Text style={{ color: colors.textGrey }}>
+                  Volume
+                </Text>
+				<Text weight={600} size={17}>{selectedStockDetails.volume}</Text>
+              </div>
 
             <div>
               <div>
@@ -196,7 +282,10 @@ export default function Analytics() {
 
 
             <ResponsiveContainer>
-              <LineChart
+				<IframeChart selectedStock={selectedStock}/>
+	
+
+{/* G            <LineChart
                 width={500}
                 height={300}
                 data={data}
@@ -208,18 +297,18 @@ export default function Analytics() {
                 }}
               >
                 {/* <CartesianGrid strokeDasharray="3 3" /> */}
-                <XAxis dataKey="date" />
+{ /* G               <XAxis dataKey="date" />
                 <YAxis />
                 {/* <Tooltip /> */}
                 {/* <Legend /> */}
-                <Line
+{ /* G               <Line
                   type="monotone"
                   dataKey="totalClients"
                   stroke="#8884d8"
                   strokeWidth={2}
                 />
                 <Line type="monotone" dataKey="completed" stroke="#82ca9d" />
-              </LineChart>
+</LineChart>																			G */}
             </ResponsiveContainer>
           </div>
         </div>
