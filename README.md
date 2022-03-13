@@ -34,4 +34,7 @@ The sprint burndown chart in Jira provided a graphic representation of the rate 
 
 ### Scrum Meetings
 ---
+
+Daily scrum meetings helped us improve our communication and identify impediments early on and work to resolve it. Below is a recording of one of scrum meetings. 
+
 https://user-images.githubusercontent.com/51351975/158071775-00fbd4ca-bca8-4e7d-b307-4ab4238a70d3.mp4
