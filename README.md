@@ -23,8 +23,10 @@ To efficiently order our backlog we started out with writing out a foundation of
 ---
 Our team used Kanban Board in Jira to assign, prioritize, and update tasks. It helped us to organize our work and focus on our workflow. 
 
-[Link to Backlog](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3)
+[Link to Board](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3)
 
 ### Sprint Burndown Chart
 ---
+The sprint burndown chart in Jira provided a graphic representation of the rate at which our tasks are completed and the amount of work that remains to be done. As we complete our story points, our chart slopes downward until there are 0 story points left on the last day of the sprint. 
 
+[Link to Burndown Chart](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/reports/burndown)
