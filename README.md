@@ -48,3 +48,6 @@ By mobbing on our code, we improved communication and visibility within the team
 ---
 
 To inspect the outcome of Sprint 1 and determine features for our next iteration, we held a Sprint Review at the end of Sprint 1. 
+
+### Working Prototype
+---
