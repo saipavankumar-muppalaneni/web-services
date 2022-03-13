@@ -18,7 +18,6 @@ To efficiently order our backlog we started out with writing out a foundation of
 
 [Link to Backlog](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/backlog)
 
-<br/>
 
 ### Kanban Board 
 ---
