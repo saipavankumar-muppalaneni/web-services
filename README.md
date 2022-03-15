@@ -32,7 +32,7 @@ Our team used Kanban Board in Jira to assign, prioritize, and update tasks. It h
 
 When the sprint 1 was completed, the Kanban Board was automatically cleared, so we recreated an image of the Kanban Board. 
 
-https://user-images.githubusercontent.com/51351975/158418506-84e8c583-119c-4370-9c23-890a195b877b.png
+![Project Kanban Board Brainstorm (250px)](https://user-images.githubusercontent.com/51351975/158418506-84e8c583-119c-4370-9c23-890a195b877b.png)
 
 
 ### Sprint Burndown Chart
