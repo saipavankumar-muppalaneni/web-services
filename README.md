@@ -47,6 +47,11 @@ https://user-images.githubusercontent.com/51351975/158290117-887db094-1ff5-4c92-
 
 ### Test Cases
 ---
+As per the requirement, we included 10 unit tests in our test suite. Below is a screenshot showing that the tests pass. 
+
+![Test1](https://user-images.githubusercontent.com/51351975/158305715-5177ebb0-c0b9-485d-863c-c50aa8f06b1f.png)
+
+![Test2](https://user-images.githubusercontent.com/51351975/158305780-7a79d10b-afe1-4510-a5a9-b07b027cc836.png)
 
 ### Sprint Review
 ---
