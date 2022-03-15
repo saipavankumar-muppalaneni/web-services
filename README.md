@@ -19,6 +19,10 @@ To efficiently order our backlog we started out with writing out a foundation of
 
 [Link to Backlog](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/backlog)
 
+* Update - Once we completed our sprint on Jira, the backlog and kanban board for Sprint 1 were no longer available and Jira didn't allow access to backlogs and boards of previous sprints. However, the Roadmap shows the completed stories and tasks within each epic for Sprint 1. 
+
+[Link to Roadmap](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/roadmap?selectedIssue=WSP-34)
+
 
 ### Kanban Board 
 ---
