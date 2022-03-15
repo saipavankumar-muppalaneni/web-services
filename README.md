@@ -41,7 +41,9 @@ https://user-images.githubusercontent.com/51351975/158071775-00fbd4ca-bca8-4e7d-
 
 ### Code Mobbing
 ---
-By mobbing on our code, we improved communication and visibility within the team. It was also a great way to help eachother and resolve issues. 
+By mobbing on our code, we improved communication and visibility within the team. It was also a great way to help eachother and resolve issues. Below is a video of the team mobbing on running the testing cases. 
+
+https://user-images.githubusercontent.com/51351975/158290117-887db094-1ff5-4c92-a535-ef136a528b0b.mp4
 
 
 ### Sprint Review
