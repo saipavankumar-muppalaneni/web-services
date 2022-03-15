@@ -67,3 +67,4 @@ https://user-images.githubusercontent.com/51351975/158291056-d8b4a63f-5d44-4526-
 
 ### Working Prototype
 ---
+Hosting URL: https://web-service-project-8eb02.web.app
