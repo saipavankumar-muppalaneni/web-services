@@ -50,6 +50,7 @@ https://user-images.githubusercontent.com/51351975/158290117-887db094-1ff5-4c92-
 ---
 
 To inspect the outcome of Sprint 1 and determine features for our next iteration, we held a Sprint Review at the end of Sprint 1. Below is a video of our sprint review. 
+
 https://user-images.githubusercontent.com/51351975/158291056-d8b4a63f-5d44-4526-814a-5c7b37d6b7b9.mp4
 
 
