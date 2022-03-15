@@ -30,6 +30,11 @@ Our team used Kanban Board in Jira to assign, prioritize, and update tasks. It h
 
 [Link to Board](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3)
 
+When the sprint 1 was completed, the Kanban Board was automatically cleared, so we recreated an image of the Kanban Board. 
+
+https://user-images.githubusercontent.com/51351975/158418506-84e8c583-119c-4370-9c23-890a195b877b.png
+
+
 ### Sprint Burndown Chart
 ---
 The sprint burndown chart in Jira provided a graphic representation of the rate at which our tasks are completed and the amount of work that remains to be done. As we complete our story points, our chart slopes downward until there are 0 story points left on the last day of the sprint. 
