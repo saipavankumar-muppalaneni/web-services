@@ -83,7 +83,7 @@ Hosting URL: https://web-service-project-8eb02.web.app
 ## Product Backlog
 
 ---
-[Link to Backlog](https://swe6733-2022.atlassian.net/jira/software/projects/OUT/boards/1/backlog)
+[Link to Backlog](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/backlog)
 
 ### Sprint Forecast
 
