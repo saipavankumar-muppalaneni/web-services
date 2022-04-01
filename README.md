@@ -83,30 +83,16 @@ Hosting URL: https://web-service-project-8eb02.web.app
 ## Product Backlog
 
 ---
-[Link to Backlog](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/backlog)
 
 ### Sprint Forecast
 
-Forecast: Our forecast for the work to be completed in Sprint 1 is 18 Story Points. This forecast contains a single epic, 
-Building Out the User Profile Features, which consists of six individual stories, and their subtasks ranging from an 
-estimated 2 story points up to 5 story points using the Fibonacci Scale.
+Forecast: Our forecast for the work to be completed in Sprint 2 is 17 Story Points. This forecast contains seven individual stories, and their subtasks ranging from an estimated 2 story points up to 5 story points using the Fibonacci Scale.
 
-Rationale: With no working history as a team, our velocity is zero, and we also have nothing to reference from prior 
-sprints (Yesterday’s Weather), so we made a collaborative guess as a group. We also, in erring on the side of caution, 
-chose what we believed to be a conservative number of story points for the work to be completed in Sprint 1. 
-Additionally, as the backlog was groomed, we grouped stories based on their relationship to specific functions and/or 
-features of the Outdoore Application to create four epics. We then took a logical look at the epics, assigning an order 
-for completion based on what made sense (e.g. Building Out the User Profile Features before creating the In-app 
-Messaging and User Matching).
+Rationale: Sprint 1 gave us a working history as a team, which helped us understand our velocity and therefore, we didn't have to rely on collaborative guesses for Sprint 2. Once our product backlog was created, we grouped stories based on their relationship to specific functions and/or 
+features of the TradeTalk Application to create three epics. After taking a logical look at the epics, we assigned an order 
+for completion. 
 
-And so, with this rationale, we concluded we would focus on Building Out the User Profile Features for Sprint 1. To 
-help confirm this decision during our discussion, we identified the subtasks for each Story related to the user profile. 
-Following this approach, if the group is able to complete the sprint work for the Building Out the User Stories epic 
-early, we can decide, after meeting with the Product Owner, if additional stories will be pulled from the backlog to 
-add into the sprint, Conversely, if the 18 story points turns out to be too much for the group to complete in Sprint 1, 
-we can simply move the story or stories that are unable to be completed to the next sprint which will also help us to 
-better estimate the number of story points to take on in the next sprint
-
+[Link to Backlog](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/backlog)
 ---
 
 ### Kanban Board
@@ -118,3 +104,19 @@ better estimate the number of story points to take on in the next sprint
 [Burndown Report](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/reports/burndown)  
 
 ---
+### Scrum Meetings
+---
+
+Daily scrum meetings helped us improve our communication and identify impediments early on and work to resolve it. Below is a recording of one of the scrum meetings we held for Sprint 2. 
+
+### Code Mobbing
+---
+By mobbing on our code, we improved communication and visibility within the team. It was also a great way to help eachother and resolve issues. Below is a video of the team mobbing on running the testing cases. 
+
+### Test Cases
+---
+As per the requirement, we included 10 unit tests in our test suite. Below is a screenshot showing that the tests pass.
+
+### Sprint Review
+---
+Our team conducted a sprint review on 04/03 after the end of Sprint 2 were we addressed both positive and negative takeaways. Below is a video of our sprint review. 
