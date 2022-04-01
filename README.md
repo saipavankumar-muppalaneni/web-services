@@ -88,8 +88,7 @@ Hosting URL: https://web-service-project-8eb02.web.app
 
 Forecast: Our forecast for the work to be completed in Sprint 2 is 17 Story Points. This forecast contains seven individual stories, and their subtasks ranging from an estimated 2 story points up to 5 story points using the Fibonacci Scale.
 
-Rationale: Sprint 1 gave us a working history as a team, which helped us understand our velocity and therefore, we didn't have to rely on collaborative guesses for Sprint 2. Once our product backlog was created, we grouped stories based on their relationship to specific functions and/or 
-features of the TradeTalk Application to create three epics. After taking a logical look at the epics, we assigned an order 
+Rationale: Sprint 1 gave us a working history as a team, which helped us understand our velocity and therefore, we didn't have to rely on collaborative guesses to determine our story points for Sprint 2. Once our product backlog was created, we grouped stories based on their relationship to specific functions and/or features of the TradeTalk Application to create three epics. After logically vieweing the epics, we assigned an order 
 for completion. 
 
 [Link to Backlog](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/backlog)
