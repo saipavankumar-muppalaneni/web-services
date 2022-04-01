@@ -1,4 +1,3 @@
-
 # TradeTalk
  
 <br/>
@@ -10,7 +9,10 @@ Saipavanlumar Muppalaneni - Product Owner and Developer\
 Melkyas Eshetu- Developer\Tester
 
 <br/>
+--- 
 
+## Sprint 1 
+--- 
 ## Product Backlog
 ---
 
@@ -73,3 +75,53 @@ https://user-images.githubusercontent.com/51351975/158291056-d8b4a63f-5d44-4526-
 ### Working Prototype
 ---
 Hosting URL: https://web-service-project-8eb02.web.app
+
+---
+
+## Sprint 2 
+--- 
+
+## Product Backlog
+
+---
+[Link to Backlog](https://swe6733-2022.atlassian.net/jira/software/projects/OUT/boards/1/backlog)
+
+### Sprint Forecast
+
+Forecast: Our forecast for the work to be completed in Sprint 1 is 18 Story Points. This forecast contains a single epic, 
+Building Out the User Profile Features, which consists of six individual stories, and their subtasks ranging from an 
+estimated 2 story points up to 5 story points using the Fibonacci Scale.
+
+Rationale: With no working history as a team, our velocity is zero, and we also have nothing to reference from prior 
+sprints (Yesterday’s Weather), so we made a collaborative guess as a group. We also, in erring on the side of caution, 
+chose what we believed to be a conservative number of story points for the work to be completed in Sprint 1. 
+Additionally, as the backlog was groomed, we grouped stories based on their relationship to specific functions and/or 
+features of the Outdoore Application to create four epics. We then took a logical look at the epics, assigning an order 
+for completion based on what made sense (e.g. Building Out the User Profile Features before creating the In-app 
+Messaging and User Matching).
+
+And so, with this rationale, we concluded we would focus on Building Out the User Profile Features for Sprint 1. To 
+help confirm this decision during our discussion, we identified the subtasks for each Story related to the user profile. 
+Following this approach, if the group is able to complete the sprint work for the Building Out the User Stories epic 
+early, we can decide, after meeting with the Product Owner, if additional stories will be pulled from the backlog to 
+add into the sprint, Conversely, if the 18 story points turns out to be too much for the group to complete in Sprint 1, 
+we can simply move the story or stories that are unable to be completed to the next sprint which will also help us to 
+better estimate the number of story points to take on in the next sprint
+
+---
+
+### Stories -> Tasks
+[Jira Board](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/backlog)  
+
+---
+
+### Kanban Board
+[Jira Board](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3)  
+*Note: Same as above*
+
+---
+
+### Sprint Burndown
+[Burndown Report](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/reports/burndown)  
+
+---
