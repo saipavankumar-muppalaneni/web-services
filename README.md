@@ -9,7 +9,6 @@ Saipavanlumar Muppalaneni - Product Owner and Developer\
 Melkyas Eshetu- Developer\Tester
 
 <br/>
---- 
 
 ## Sprint 1 
 --- 
