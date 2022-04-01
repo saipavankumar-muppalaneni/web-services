@@ -110,14 +110,8 @@ better estimate the number of story points to take on in the next sprint
 
 ---
 
-### Stories -> Tasks
-[Jira Board](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/backlog)  
-
----
-
 ### Kanban Board
-[Jira Board](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3)  
-*Note: Same as above*
+[Link to Kanban Board](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3)  
 
 ---
 
