@@ -94,7 +94,7 @@ for completion.
 [Link to Backlog](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/backlog)
 
 <img width="1440" alt="Backlog screenshot" src="https://user-images.githubusercontent.com/51351975/161559637-0f859308-dec1-426c-8158-9239e5bbe58e.png">
----
+
 
 ### Kanban Board
 [Link to Kanban Board](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3)  
