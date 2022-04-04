@@ -92,6 +92,8 @@ Rationale: Sprint 1 gave us a working history as a team, which helped us underst
 for completion. 
 
 [Link to Backlog](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/backlog)
+
+<img width="1440" alt="Backlog screenshot" src="https://user-images.githubusercontent.com/51351975/161559637-0f859308-dec1-426c-8158-9239e5bbe58e.png">
 ---
 
 ### Kanban Board
@@ -114,6 +116,7 @@ https://user-images.githubusercontent.com/51351975/161557171-eeb778a2-9218-4717-
 ---
 By mobbing on our code, we improved communication and visibility within the team. It was also a great way to help eachother and resolve issues. Below is a video of the team mobbing on running the testing cases. 
 
+https://user-images.githubusercontent.com/51351975/161559803-dd2d6dd7-86c6-47f7-b7a5-941b74760ddb.mp4
 
 
 ### Test Cases
@@ -123,3 +126,5 @@ As per the requirement, we included 10 unit tests in our test suite. Below is a 
 ### Sprint Review
 ---
 Our team conducted a sprint review on 04/03 after the end of Sprint 2 were we addressed both positive and negative takeaways. Below is a video of our sprint review. 
+
+https://user-images.githubusercontent.com/51351975/161558538-50e9a482-a302-4838-a25c-e50c233097b1.mp4
