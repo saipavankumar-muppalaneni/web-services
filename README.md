@@ -108,9 +108,13 @@ for completion.
 
 Daily scrum meetings helped us improve our communication and identify impediments early on and work to resolve it. Below is a recording of one of the scrum meetings we held for Sprint 2. 
 
+https://user-images.githubusercontent.com/51351975/161557171-eeb778a2-9218-4717-b9b4-57e54b957dd7.mp4
+
 ### Code Mobbing
 ---
 By mobbing on our code, we improved communication and visibility within the team. It was also a great way to help eachother and resolve issues. Below is a video of the team mobbing on running the testing cases. 
+
+
 
 ### Test Cases
 ---
