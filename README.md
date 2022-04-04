@@ -99,6 +99,12 @@ for completion.
 ### Kanban Board
 [Link to Kanban Board](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3)  
 
+<img width="1434" alt="Kanban Board" src="https://user-images.githubusercontent.com/51351975/161563974-08db5ab3-3686-429b-909b-7c3c8af9cc50.png">
+
+<img width="1440" alt="Kanban Board 2" src="https://user-images.githubusercontent.com/51351975/161564007-afea2b5c-4d65-44d1-b7a2-e968abdd376d.png">
+
+
+
 ---
 
 ### Sprint Burndown
@@ -133,3 +139,7 @@ As per the requirement, we included 20 unit tests in our test suite. Below is a 
 Our team conducted a sprint review on 04/03 after the end of Sprint 2 were we addressed both positive and negative takeaways. Below is a video of our sprint review. 
 
 https://user-images.githubusercontent.com/51351975/161558538-50e9a482-a302-4838-a25c-e50c233097b1.mp4
+
+### Working Prototype
+---
+Hosting URL: https://web-service-project-8eb02.web.app
