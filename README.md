@@ -147,6 +147,9 @@ Continuous integration is an integral part of Scrum as it helps reduce risk and 
 
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/51351975/162600557-178e28b0-5e4b-485a-a240-d589d3232d0c.png)
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/51351975/162600568-11db72f8-d463-4ab6-a1ae-bc43d6cf82bf.png)
+![image](https://user-images.githubusercontent.com/82463687/162633969-150228a3-7969-44a7-89bd-bf9ee7b95db7.png)
+![image](https://user-images.githubusercontent.com/82463687/162634005-b63e57d8-f20b-4d0a-aba8-e8fba78b66df.png)
+
 
 ### Working Prototype
 ---
