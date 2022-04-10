@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/51351975/158291056-d8b4a63f-5d44-4526-
 
 ### Working Prototype
 ---
-Hosting URL: https://web-service-project-8eb02.web.app
+Hosting URL: test-test.msgoc.com
 
 ---
 
@@ -150,4 +150,4 @@ Continuous integration is an integral part of Scrum as it helps reduce risk and 
 
 ### Working Prototype
 ---
-Hosting URL: https://web-service-project-8eb02.web.app
+Hosting URL: test-test.msgoc.com
