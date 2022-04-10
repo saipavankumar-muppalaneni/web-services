@@ -140,6 +140,14 @@ Our team conducted a sprint review on 04/03 after the end of Sprint 2 were we ad
 
 https://user-images.githubusercontent.com/51351975/161558538-50e9a482-a302-4838-a25c-e50c233097b1.mp4
 
+### CI/CD Pipelines
+---
+We have integrated Continuous Integration (CI) and Continuous Delivery (CD) pipelines with Bitbucket Cloud to automate our code from test to production.
+Continuous integration is an integral part of Scrum as it helps reduce risk and improve quality. With CD integrated, the code that is stored in our repository can be continuously delivered to production. 
+
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/51351975/162600557-178e28b0-5e4b-485a-a240-d589d3232d0c.png)
+![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/51351975/162600568-11db72f8-d463-4ab6-a1ae-bc43d6cf82bf.png)
+
 ### Working Prototype
 ---
 Hosting URL: https://web-service-project-8eb02.web.app
