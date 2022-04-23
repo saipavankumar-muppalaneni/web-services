@@ -155,3 +155,76 @@ Continuous integration is an integral part of Scrum as it helps reduce risk and 
 ### Working Prototype
 ---
 Hosting URL: http://test-test.msgoc.com
+
+---
+
+## Sprint 3
+--- 
+
+## Product Backlog
+
+---
+
+### Sprint Forecast
+
+Forecast: Our forecast for the work to be completed in Sprint 3 is 25 Story Points. There are eight stories in this Sprint including subtasks; the stories range from an estimated 2 story points to 8 story points using the Fibonacci Scale. The story points estimated for this sprint are a lot higher from the previous sprints because we are also picking up the slack remaining after closing Sprint 3. With this being our final sprint, we wanted to ensure that our near and far vision for the application were fulfilled.  
+
+
+Rationale: In sprint 2, there was quite a bit of work to be done outside of the functional requirements to set up the project, and the team decided the importance of documenting those tasks and issues as stories and/or tasks in the future in order to get a more accurate depiction of the effort applied and the work completed. Which leads to our rationale for Sprint 3: We now have a working history as a team and we have two sprints to reference from (Yesterday’s Weather), so we were equipped to handle the 25 story points for Sprint 3.  
+
+[Link to Backlog](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/backlog)
+
+### Kanban Board
+[Link to Kanban Board](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3)  
+
+Note: To see subtask on the board find "GROUP BY" in the top right corner and select "Subtask."
+
+---
+
+### Sprint Burndown
+[Burndown Report](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/reports/burndown)  
+
+---
+### Scrum Meetings
+---
+
+Daily scrum meetings helped us improve our communication and identify impediments early on and work to resolve it. Below is a recording of one of the scrum meetings we held for Sprint 3. 
+
+
+### Code Mobbing
+---
+By mobbing on our code, we improved communication and visibility within the team. It was also a great way to help eachother and resolve issues. Below is a video of the team mobbing on running the testing cases. 
+
+
+
+### Test Cases
+---
+As per the requirement, we included 20 unit tests in our test suite. Below is a screenshot showing that the tests pass.
+
+![IMG_1064](https://user-images.githubusercontent.com/51351975/161563079-e80d7787-1168-4442-a8bf-d80dff6e4b10.JPG)
+
+![IMG_1065](https://user-images.githubusercontent.com/51351975/161563191-18c16af8-59f0-4180-af36-4609e3c9fc23.JPG)
+
+
+### Sprint Review
+---
+Our team conducted a sprint review on 04/25 after the end of Sprint 3 were we addressed both positive and negative takeaways. Below is a video of our sprint review. 
+
+https://user-images.githubusercontent.com/51351975/161558538-50e9a482-a302-4838-a25c-e50c233097b1.mp4
+
+### CI/CD Pipelines
+---
+We have integrated Continuous Integration (CI) and Continuous Delivery (CD) pipelines with Bitbucket Cloud to automate our code from test to production.
+Continuous integration is an integral part of Scrum as it helps reduce risk and improve quality. With CD integrated, the code that is stored in our repository can be continuously delivered to production. 
+
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/51351975/162600557-178e28b0-5e4b-485a-a240-d589d3232d0c.png)
+![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/51351975/162600568-11db72f8-d463-4ab6-a1ae-bc43d6cf82bf.png)
+![image](https://user-images.githubusercontent.com/82463687/162634946-235e4d7a-0edb-4da9-9439-28291d43178b.png)
+![image](https://user-images.githubusercontent.com/82463687/162634966-54e1899d-6eb2-4941-89b0-5d5208beb5b2.png)
+
+
+
+### Working Prototype
+---
+Hosting URL: http://test-test.msgoc.com
+
