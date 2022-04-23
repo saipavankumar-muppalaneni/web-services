@@ -190,6 +190,8 @@ Note: To see subtask on the board find "GROUP BY" in the top right corner and se
 
 Daily scrum meetings helped us improve our communication and identify impediments early on and work to resolve it. Below is a recording of one of the scrum meetings we held for Sprint 3. 
 
+https://user-images.githubusercontent.com/51351975/164944967-276f8d06-6da8-4b35-9e70-e52f699040fe.mp4 
+
 
 ### Code Mobbing
 ---
