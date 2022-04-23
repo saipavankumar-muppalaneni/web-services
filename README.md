@@ -198,6 +198,9 @@ https://user-images.githubusercontent.com/51351975/164944967-276f8d06-6da8-4b35-
 By mobbing on our code, we improved communication and visibility within the team. It was also a great way to help eachother and resolve issues. Below is a video of the team mobbing on running the testing cases. 
 
 
+https://user-images.githubusercontent.com/51351975/164945442-6b628309-a019-4b97-8d3e-67811c27268d.mp4 
+
+
 
 ### Test Cases
 ---
