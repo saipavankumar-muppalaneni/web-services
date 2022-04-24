@@ -221,11 +221,11 @@ https://user-images.githubusercontent.com/51351975/161558538-50e9a482-a302-4838-
 ---
 For the project we are utilizing Bitbucket to build and deploy our applications on each merge.
 
-Rationale
+##### Rationale
 
 The primary motivation for using Bitbucket as the CI/CD tool was that it is a Git-based source code repository hosting service owned by Atlassian. Bitbucket also offers a free cloud plan. Another benefit of using the Bitbucket pipeline was the numerous common workflows and prebuit templates that were available for us to use as a starting point. We found many helpful documentation that helped us piece together any challenges we were facing.
 
-#### Production Environment 
+##### Production Environment 
 
 Both the backend and frontend of TradeTalk are deployed to a production like environment upon each merge. In order to get the TradeTalk application up and running, we used Digital ocean: a reliable and easy-to-use cloud hosting solution.  
 
