@@ -215,7 +215,6 @@ As per the requirement, we included 20 unit tests in our test suite. Below is a 
 ---
 Our team conducted a sprint review on 04/25 after the end of Sprint 3 were we addressed both positive and negative takeaways. Below is a video of our sprint review. 
 
-https://user-images.githubusercontent.com/51351975/161558538-50e9a482-a302-4838-a25c-e50c233097b1.mp4
 
 ### CI/CD Pipelines
 ---
