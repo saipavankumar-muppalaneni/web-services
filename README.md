@@ -204,11 +204,9 @@ https://user-images.githubusercontent.com/51351975/164945442-6b628309-a019-4b97-
 
 ### Test Cases
 ---
-As per the requirement, we included 20 unit tests in our test suite. Below is a screenshot showing that the tests pass.
+Below is a screenshots showing that we have at least 30 unit tests in our test suite that all pass; including the new tests we have added for Sprint 3.  
 
-![IMG_1064](https://user-images.githubusercontent.com/51351975/161563079-e80d7787-1168-4442-a8bf-d80dff6e4b10.JPG)
-
-![IMG_1065](https://user-images.githubusercontent.com/51351975/161563191-18c16af8-59f0-4180-af36-4609e3c9fc23.JPG)
+<img width="1162" alt="Test 1" src="https://user-images.githubusercontent.com/51351975/164952028-c75775c1-b964-4010-9206-3bead1f62f44.png"> 
 
 
 ### Sprint Review
