@@ -219,13 +219,16 @@ https://user-images.githubusercontent.com/51351975/161558538-50e9a482-a302-4838-
 
 ### CI/CD Pipelines
 ---
-We have integrated Continuous Integration (CI) and Continuous Delivery (CD) pipelines with Bitbucket Cloud to automate our code from test to production.
-Continuous integration is an integral part of Scrum as it helps reduce risk and improve quality. With CD integrated, the code that is stored in our repository can be continuously delivered to production. 
+For the project we are utilizing Bitbucket to build and deploy our applications on each merge.
 
-![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/51351975/162600557-178e28b0-5e4b-485a-a240-d589d3232d0c.png)
-![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/51351975/162600568-11db72f8-d463-4ab6-a1ae-bc43d6cf82bf.png)
-![image](https://user-images.githubusercontent.com/82463687/162634946-235e4d7a-0edb-4da9-9439-28291d43178b.png)
-![image](https://user-images.githubusercontent.com/82463687/162634966-54e1899d-6eb2-4941-89b0-5d5208beb5b2.png)
+Rationale
+
+The primary motivation for using Bitbucket as the CI/CD tool was that it is a Git-based source code repository hosting service owned by Atlassian. Bitbucket also offers a free cloud plan. Another benefit of using the Bitbucket pipeline was the numerous common workflows and prebuit templates that were available for us to use as a starting point. We found many helpful documentation that helped us piece together any challenges we were facing.
+
+![CI:CD 1](https://user-images.githubusercontent.com/51351975/164950314-371e9611-cb0e-4421-96d0-4eb8bbbb9f36.png)
+![CI:CD 2](https://user-images.githubusercontent.com/51351975/164950334-f611460a-03df-4065-84f8-51975f9f023c.png)
+![CI:CD 3](https://user-images.githubusercontent.com/51351975/164950355-630f72c6-3335-40c6-96aa-265cf0f0cea4.png)
+
 
 
 
