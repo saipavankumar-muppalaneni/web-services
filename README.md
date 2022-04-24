@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/51351975/158291056-d8b4a63f-5d44-4526-
 
 ### Working Prototype
 ---
-Hosting URL: http://test-test.msgoc.com
+Hosting URL:http://web-service-project.tunecareer.com/#/
 
 ---
 
@@ -154,7 +154,7 @@ Continuous integration is an integral part of Scrum as it helps reduce risk and 
 
 ### Working Prototype
 ---
-Hosting URL: http://test-test.msgoc.com
+Hosting URL: http://web-service-project.tunecareer.com/#/
 
 ---
 
@@ -236,5 +236,5 @@ Both the backend and frontend of TradeTalk are deployed to a production like env
 
 ### Working Prototype
 ---
-Hosting URL: http://test-test.msgoc.com
+Hosting URL: http://web-service-project.tunecareer.com/#/
 
