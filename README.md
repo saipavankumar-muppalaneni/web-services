@@ -225,6 +225,11 @@ Rationale
 
 The primary motivation for using Bitbucket as the CI/CD tool was that it is a Git-based source code repository hosting service owned by Atlassian. Bitbucket also offers a free cloud plan. Another benefit of using the Bitbucket pipeline was the numerous common workflows and prebuit templates that were available for us to use as a starting point. We found many helpful documentation that helped us piece together any challenges we were facing.
 
+#### Production Environment 
+
+Both the backend and frontend of TradeTalk are deployed to a production like environment upon each merge. In order to get the TradeTalk application up and running, we used Digital ocean: a reliable and easy-to-use cloud hosting solution.  
+
+
 ![CI:CD 1](https://user-images.githubusercontent.com/51351975/164950314-371e9611-cb0e-4421-96d0-4eb8bbbb9f36.png)
 ![CI:CD 2](https://user-images.githubusercontent.com/51351975/164950334-f611460a-03df-4065-84f8-51975f9f023c.png)
 ![CI:CD 3](https://user-images.githubusercontent.com/51351975/164950355-630f72c6-3335-40c6-96aa-265cf0f0cea4.png)
