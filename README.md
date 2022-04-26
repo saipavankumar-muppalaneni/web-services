@@ -238,5 +238,5 @@ Both the backend and frontend of TradeTalk are deployed to a production like env
 
 ### Working Prototype
 ---
-Hosting URL: http://web-service-project.tunecareer.com/#/
+Hosting URL: http://web-service-project.tunecareer.com/#/ 
 
