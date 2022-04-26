@@ -174,15 +174,26 @@ Rationale: In sprint 2, there was quite a bit of work to be done outside of the 
 
 [Link to Backlog](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/backlog)
 
+<img width="1440" alt="Screen Shot 2022-04-26 at 12 15 53 PM" src="https://user-images.githubusercontent.com/51351975/165346337-2f575bba-1ff2-4c01-b67f-6cfd5420551d.png">
+
 ### Kanban Board
 [Link to Kanban Board](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3)  
 
-Note: To see subtask on the board find "GROUP BY" in the top right corner and select "Subtask."
+To see subtask on the board find "GROUP BY" in the top right corner and select "Subtask."
+Note: Board only shows cards while sprint is active. Depending on the timing it may be empty. Please refer to the image below.
+
+<img width="1440" alt="Screen Shot 2022-04-26 at 12 08 50 PM" src="https://user-images.githubusercontent.com/51351975/165345053-a8938f69-5fc6-4a83-a920-a0354a91d675.png">
+
+<img width="1440" alt="Screen Shot 2022-04-26 at 12 09 08 PM" src="https://user-images.githubusercontent.com/51351975/165345434-5bc985d8-0166-4f2b-b009-c5e259f17036.png">
+<img width="1440" alt="Screen Shot 2022-04-26 at 12 09 15 PM" src="https://user-images.githubusercontent.com/51351975/165345496-f45bb36d-a50b-4dcd-bd49-a8e5e20b980d.png">
+
+<img width="1440" alt="Screen Shot 2022-04-26 at 12 09 37 PM" src="https://user-images.githubusercontent.com/51351975/165345549-478f416e-cc0a-4827-83d0-c7e466d7921c.png">
 
 ---
 
 ### Sprint Burndown
 [Burndown Report](https://swe6733-2022.atlassian.net/jira/software/projects/WSP/boards/3/reports/burndown)  
+Note: Ensure Sprint 3 is selected from the dropdown.
 
 ---
 ### Scrum Meetings
@@ -197,7 +208,6 @@ https://user-images.githubusercontent.com/51351975/164944967-276f8d06-6da8-4b35-
 ---
 By mobbing on our code, we improved communication and visibility within the team. It was also a great way to help eachother and resolve issues. Below is a video of the team mobbing on running the testing cases. 
 
-
 https://user-images.githubusercontent.com/51351975/164945442-6b628309-a019-4b97-8d3e-67811c27268d.mp4 
 
 
@@ -209,7 +219,6 @@ Below is a screenshots showing that we have at least 30 unit tests in our test s
 <img width="1162" alt="Test 1" src="https://user-images.githubusercontent.com/51351975/164952028-c75775c1-b964-4010-9206-3bead1f62f44.png"> 
 ![image](https://user-images.githubusercontent.com/82463687/165221700-25c44752-e286-4d79-a085-6dc47ef30e95.png)
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/82463687/165222454-e482beb2-f6ca-4e1a-a5e7-8abffb33a4b0.png)
-
 
 
 
