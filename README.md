@@ -213,7 +213,9 @@ Below is a screenshots showing that we have at least 30 unit tests in our test s
 
 ### Sprint Review
 ---
-Our team conducted a sprint review on 04/25 after the end of Sprint 3 were we addressed both positive and negative takeaways. Below is a video of our sprint review. 
+Our team conducted a sprint review on 04/25 after the end of Sprint 3 were we addressed both positive and negative takeaways. Since we didn't have another sprint to look forward to, we addressed what we have learned from our project overall and expressed what we can take forward. Below is a video of our sprint review. 
+
+https://user-images.githubusercontent.com/51351975/165207193-4aa0e40a-5aee-4cf2-a1cc-a63bc378e36e.mp4
 
 
 ### CI/CD Pipelines
