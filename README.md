@@ -214,11 +214,15 @@ https://user-images.githubusercontent.com/51351975/164945442-6b628309-a019-4b97-
 
 ### Test Cases
 ---
-Below is a screenshots showing that we have at least 30 unit tests in our test suite that all pass; including the new tests we have added for Sprint 3.  
+Below are screenshots showing that we have at least 30 unit tests in our test suite that all pass; including the new tests we have added for Sprint 3.  
 
-<img width="1162" alt="Test 1" src="https://user-images.githubusercontent.com/51351975/164952028-c75775c1-b964-4010-9206-3bead1f62f44.png"> 
-![image](https://user-images.githubusercontent.com/82463687/165221700-25c44752-e286-4d79-a085-6dc47ef30e95.png)
-![MicrosoftTeams-image](https://user-images.githubusercontent.com/82463687/165222454-e482beb2-f6ca-4e1a-a5e7-8abffb33a4b0.png)
+![Test 1](https://user-images.githubusercontent.com/51351975/165349849-2f3d12a1-2f88-4d8e-a7ce-6b37df3fac89.png)
+![Test 2](https://user-images.githubusercontent.com/51351975/165349922-1b37e9f7-c040-48b8-9ac7-200a9e1bcbbd.png)
+![Test 3](https://user-images.githubusercontent.com/51351975/165349956-7c222efd-3495-4004-b6ba-78457e088ca6.png)
+![Test 4](https://user-images.githubusercontent.com/51351975/165349996-8a11c022-e7b8-437a-a7a4-29cc6f82dcf6.png)
+![Test 5](https://user-images.githubusercontent.com/51351975/165350029-497eb345-ba12-46e7-8011-975aafa9d426.png)
+![Test 6](https://user-images.githubusercontent.com/51351975/165350142-fd97c750-8db7-4417-bab1-c7dc01d2557f.png)
+![Test 7](https://user-images.githubusercontent.com/51351975/165350197-686c7d44-92e6-4f56-9eaf-2fc214e55285.png)
 
 
 
